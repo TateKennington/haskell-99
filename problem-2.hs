@@ -1,0 +1,1 @@
+mySndLast (x:xl) = if length xl == 1 then x else mySndLast xl
